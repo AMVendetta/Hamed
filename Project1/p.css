@@ -1,0 +1,117 @@
+
+#p1
+{
+    background-color: rgb(90, 207, 12);
+    font-family:b titr;
+    font-size: 60px;
+    text-align: center;
+    margin: 0%;
+    border-radius: 15px;
+    text-shadow: 6px 6px 9px rgb(212, 25, 34);
+}
+#heder
+{
+    text-align: center;
+    background-color: cadetblue;
+    border-radius: 15px;
+}
+#heder>a{
+    margin: 90px;
+    font-family: b titr;
+    text-decoration:none;
+}
+#janebi{
+   float: right; 
+   background-color: rgb(208, 171, 92);
+   display: inline-block;
+   margin: 15px;
+   height: 300px;
+   width: 33%;
+   text-align: center;
+   border-radius: 15px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#asli{
+    background-color: rgb(233, 101, 238);
+    display: inline-block;
+    margin: 15px ;
+    height: 300px;
+    width: 55%;
+    text-align: center;
+    border-radius: 15px;
+}
+#koli{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    border-radius: 15px;
+}
+#akhar{
+    background-color: rgb(25, 184, 212);
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+    height: 150px;
+    width: 25%;
+    font-family: b nazanin;
+    border-radius: 15px;
+}
+#janebi>b>a{
+    text-decoration:none;
+}
+#paiin{
+    background-color: rgb(95, 93, 84);
+    text-align:  right;
+    margin: px;
+    border-radius: 15px;
+}
+#tesiee{
+    display: inline-block;
+    text-align: center;
+    float: left;
+    background-color: lightblue;
+    margin: 5px;
+    height: 100px;
+    width:25%;
+    padding: 25px;
+    font-family: b nazanin;
+    font-size: 25px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+#ertebat{
+    display: inline-block;
+    text-align: center;
+    float: left;
+    background-color: rgb(216, 219, 29);
+    margin: 5px;
+    height: 150px;
+    width: 25%;
+    font-family: b nazanin;
+}
+#labtap{
+    background-color: brown;
+    display: inline-block;
+    height: 115px;
+    width: 240px;
+    float: right;
+    margin: 14px;
+    font-size: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#manitor{
+    background-color: brown;
+    display: inline-block;
+    height: 115px;
+    width: 240px;
+    margin: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#akse{
+    width: 25px;
+    display: block;
+    margin: 20px;
+    height: 65px;
+    width: 85px;
+    padding: 1px;
+}
